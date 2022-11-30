@@ -4,7 +4,7 @@
         <link href="{{ asset('public/assets/css/styles.css') }}" rel="stylesheet">
     </head>
     <body>
-
+Master Update nowgh56776567
             <section class="h-100 gradient-form" style="background-color: rgb(238, 238, 238);">
                 <div class="container py-5 h-100">
                     <div class="row d-flex justify-content-center align-items-center h-100">
@@ -54,9 +54,6 @@
                             <div class="text-white px-3 py-4 p-md-5 mx-md-4">
 <<<<<<< Updated upstream
                                 <h4 class="mb-4">Welcome Poovarasan Temp</h4>
-=======
-                                <h4 class="mb-4">Welcome Poovarasan </h4>
->>>>>>> Stashed changes
                                 <p class="small mb-0">online money</p>
                             </div>
                             </div>
