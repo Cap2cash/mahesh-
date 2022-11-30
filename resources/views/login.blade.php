@@ -4,7 +4,7 @@
         <link href="{{ asset('public/assets/css/styles.css') }}" rel="stylesheet">
     </head>
     <body>
-
+Master Update
             <section class="h-100 gradient-form" style="background-color: rgb(238, 238, 238);">
                 <div class="container py-5 h-100">
                     <div class="row d-flex justify-content-center align-items-center h-100">
