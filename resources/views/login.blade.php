@@ -28,7 +28,7 @@ Master Update nowgh56776567
                                 <div class="form-outline mb-4">
                                     <input type="text" name="contact" id="form2Example11" class="form-control"
                                     placeholder="Phone Number" required/>
-                                    <label class="form-label" for="form2Example11">Username</label>
+                                    <label class="form-label" for="form2Example11">name</label>
                                 </div>
 
                                 <div class="form-outline mb-4">
