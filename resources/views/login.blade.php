@@ -52,7 +52,11 @@
                             </div>
                             <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
                             <div class="text-white px-3 py-4 p-md-5 mx-md-4">
+<<<<<<< Updated upstream
                                 <h4 class="mb-4">Welcome Poovarasan Temp</h4>
+=======
+                                <h4 class="mb-4">Welcome Poovarasan </h4>
+>>>>>>> Stashed changes
                                 <p class="small mb-0">online money</p>
                             </div>
                             </div>
