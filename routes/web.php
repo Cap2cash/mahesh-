@@ -14,6 +14,7 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('login','HomeController@login1')->name('login');
+Route::get('login','HomeController@login1')->name('index');
 Route::post('checklogin','HomeController@checklogin')->name('checklogin');
 Route::post('updatewithdraw','HomeController@updatewithdraw')->name('updatewithdraw');
 
